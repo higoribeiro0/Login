@@ -12,7 +12,9 @@ navegador.
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para desenvolver este projeto utilizei o navegador Google Chrome Versão 67.
+Live preview: https://lnkd.in/dBPjN_D6
+
+Para desenvolver este projeto utilizei o navegador Google Chrome.
 Então para conseguir colocar este projeto em funcionamento em sua máquina,
 você precisará de um navegador compatível.
 
