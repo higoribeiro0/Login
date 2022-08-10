@@ -12,7 +12,7 @@ navegador.
 
 ## 🛠️ Abrir e rodar o projeto
 
-Live preview: https://lnkd.in/dBPjN_D6
+Live preview: https://lnkd.in/dmW9eTu9
 
 Para desenvolver este projeto utilizei o navegador Google Chrome.
 Então para conseguir colocar este projeto em funcionamento em sua máquina,
